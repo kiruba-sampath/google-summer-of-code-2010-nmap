@@ -1,0 +1,7 @@
+This repository contains code contains the code written by students for the 2010 Google Summer of Code. To get a copy of Nmap and try out the code, visit the [Nmap download page](http://nmap.org/download.html). For a full list of changes see the [online CHANGELOG](http://nmap.org/svn/CHANGELOG).
+
+The Nmap Security Scanner is a free and open source utility used by millions of people for network discovery, administration, inventory, and security auditing. Nmap uses raw IP packets in novel ways to determine what hosts are available on a network, what services (application name and version) those hosts are offering, what operating systems they are running, what type of packet filters or firewalls are in use, and more. Nmap was named "Information Security Product of the Year" by Linux Journal and Info World. It was also used by hackers in [eight movies](http://nmap.org/movies.html), including The Matrix Reloaded, Die Hard 4, and The Bourne Ultimatum. Nmap runs on all major computer operating systems, plus the Amiga. A traditional command-line interface and the Zenmap GUI are included.
+
+This was Nmap's sixth year as a SoC participant. Results from our previous years are described in [this Google Open Source Blog article](http://google-opensource.blogspot.com/2008/11/nmaps-fourth-gsoc-success-stories-and.html).
+
+Please see all of our SoC information at http://nmap.org/soc/.
